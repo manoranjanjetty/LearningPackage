@@ -26,5 +26,7 @@ public class MorearrayFun {
             System.out.println(num);
         }
 
+
+
     }//end main
 }

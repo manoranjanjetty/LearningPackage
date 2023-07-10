@@ -6,9 +6,12 @@ public class arraylistfun {
         namelist.add("ran");
         namelist.add("jan");
 
-        for(int i=0; i< namelist.size(); i++){
-            System.out.print(namelist.get(i));
-        }//end of for
+//        for(int i=0; i< namelist.size(); i++){
+//            System.out.print(namelist.get(i));
+//        }//end of for
+        for(String name : namelist){
+            System.out.println(name);
+        }
 
-    }//end mail
+    }//end main
 }
