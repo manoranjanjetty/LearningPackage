@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca7ab7c8-7ee8-4103-a04f-1dc1cdfe7967" name="Changes" comment="New Project">
-      <change afterPath="$PROJECT_DIR$/src/Arraylisttask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayofemployeeage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayofemployees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraytask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wrapperfun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringmethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MorearrayFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MorearrayFun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraylistfun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylistfun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +45,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.arrayofemployeeage">
+  <component name="RunManager" selected="Application.stringmethod2">
     <configuration name="Arraylisttask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arraylisttask" />
       <module name="Learning Packages" />
@@ -72,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraytask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraytask" />
+    <configuration name="stringmethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringmethod2" />
       <module name="Learning Packages" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wrapperfun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wrapperfun" />
+    <configuration name="stringmethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringmethods" />
       <module name="Learning Packages" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.stringmethod2" />
+        <item itemvalue="Application.stringmethods" />
         <item itemvalue="Application.arrayofemployeeage" />
         <item itemvalue="Application.arrayofemployees" />
         <item itemvalue="Application.Arraylisttask" />
-        <item itemvalue="Application.arraytask" />
-        <item itemvalue="Application.wrapperfun" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688741460920</updated>
-      <workItem from="1688741461910" duration="22855000" />
+      <workItem from="1688741461910" duration="26263000" />
     </task>
     <task id="LOCAL-00001" summary="New Project">
       <option name="closed" value="true" />
@@ -138,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688983776255</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New Project">
+      <option name="closed" value="true" />
+      <created>1689011789880</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689011789880</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
