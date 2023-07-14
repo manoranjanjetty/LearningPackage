@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca7ab7c8-7ee8-4103-a04f-1dc1cdfe7967" name="Changes" comment="New Project">
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LakshmiprakashM/IdeaProjects/Learning Packages&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -44,16 +47,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumofelementswithArraylists">
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="Funwith2Darray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Funwith2Darray" />
-      <module name="Learning Packages" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodCallingRecurssion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodCallingRecurssion" />
       <module name="Learning Packages" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="Learning Packages" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="twice2darray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="twice2darray" />
       <module name="Learning Packages" />
@@ -82,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.SumofelementswithArraylists" />
         <item itemvalue="Application.SumofElements" />
         <item itemvalue="Application.twice2darray" />
         <item itemvalue="Application.Funwith2Darray" />
-        <item itemvalue="Application.MethodCallingRecurssion" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +102,9 @@
       <option name="presentableId" value="Default" />
       <updated>1688741460920</updated>
       <workItem from="1688741461910" duration="48842000" />
-      <workItem from="1689237952745" duration="4541000" />
+      <workItem from="1689237952745" duration="4870000" />
+      <workItem from="1689247685755" duration="1617000" />
+      <workItem from="1689321694252" duration="4251000" />
     </task>
     <task id="LOCAL-00001" summary="New Project">
       <option name="closed" value="true" />
@@ -165,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689172348928</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New Project">
+      <option name="closed" value="true" />
+      <created>1689244804487</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689244804487</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
