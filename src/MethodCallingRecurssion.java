@@ -2,7 +2,7 @@ public class MethodCallingRecurssion {
     public static void main(String[] args){
     multiply();
 
-    //recurssion method
+    //recursion method
         recursion(100);
         //count upto
         countupto(0,10);

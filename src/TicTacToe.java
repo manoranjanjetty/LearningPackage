@@ -54,7 +54,7 @@ public class TicTacToe{
             gameboard[i][j] = " ";
         }//end for j
     }//end for i
-    }//end Ingame
+    }//end Initialize
 
     public static void PrintCurrentboard(String[][] gameboard){
     for(int i=0; i<gameboard.length; i++){

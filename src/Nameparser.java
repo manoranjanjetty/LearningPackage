@@ -13,7 +13,7 @@ public class Nameparser {
 
         System.out.println("First Name : " +Fnameup);
         System.out.println("Last name : " + Lnamelow);
-
+        //String Builder class
         StringBuilder NewName = new StringBuilder("Manoranjan Lakshmipraksh");
         System.out.println(NewName);
 

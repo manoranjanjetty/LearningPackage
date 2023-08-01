@@ -23,6 +23,7 @@ public class Projnamepermutations {
                 System.out.print(Fname.get(i) +" ");
                 System.out.println(Lname.get(j));
             }
+            //alternate
        /* for (String s : Fname) {
             System.out.println(s + " " + Lname.get(0));
             System.out.println(s + " " + Lname.get(1));

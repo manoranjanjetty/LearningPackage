@@ -25,7 +25,7 @@ public class MethodFun {
     //value returning parameterless method
     public static int printnumber(){
         return 10;
-    }//end Printnumber
+    }//end Print-number
 
     //value returning parameterized method
     public static int add(int num1, int num2){
